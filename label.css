@@ -1,0 +1,87 @@
+html {
+    color: white;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.label {
+    border: 2px solid white;
+    width: 550px;
+    margin: 0 auto;
+    padding: 0 7px;
+}
+
+.bold {
+    font-weight: 800;
+}
+
+h1 {
+    margin: .2rem;
+    letter-spacing:.6px
+}
+
+p {
+    margin: 0 auto;
+    font-size: .87rem;
+}
+
+.divider {
+    border-bottom: 1px solid white;
+    margin: 4px 0;
+    clear: right;
+}
+
+.lg {
+    height: 10px;
+}
+
+.md {
+    height: 5px
+}
+
+.lg, .md {
+    background-color: white;
+
+}
+
+.right {
+    float: right;
+}
+
+.calories {
+    margin-right: 130px;
+}
+
+.g {
+    margin-right: 106px;
+    float: right
+}
+
+.g2 {
+    margin-right: 120px;
+    float: right
+}
+
+.serving {
+    padding-bottom: 3px;
+}
+
+.indent {
+    margin-left: 10px;
+}
+
+.dbl-indent{
+    margin-left: 20px
+}
+
+.end {
+    padding-bottom: 10px;
+}
+
+.notes {
+    font-size: .8rem;
+}
